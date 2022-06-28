@@ -1,24 +1,7 @@
 **[This repository archieved. For active updates and latest version click.](https://github.com/ExtrieveTechnologies/QuickCapture)**
 
 
-
 ## **Android Compression SDK**
-
-**Date:**  **08**** January **** 202 ****1**
-
-![](RackMultipart20210815-4-fwiqk9_html_a4869ffef093613d.gif)
-
-**Technical Document**
-
-.
-
-Other products.
-
-![](RackMultipart20210815-4-fwiqk9_html_3daf8a350347b653.png)
-
-![](RackMultipart20210815-4-fwiqk9_html_32d5e39fa0e01eb4.png)
-
-![](RackMultipart20210815-4-fwiqk9_html_305993b92c81f64b.png)
 
 # API and integration Details
 
