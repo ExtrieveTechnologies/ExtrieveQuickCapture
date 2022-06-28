@@ -1,4 +1,4 @@
-[This repository archieved. For active updates and latest versionsee.](https://github.com/ExtrieveTechnologies/QuickCapture)
+**[This repository archieved. For active updates and latest version click.](https://github.com/ExtrieveTechnologies/QuickCapture)**
 
 
 
