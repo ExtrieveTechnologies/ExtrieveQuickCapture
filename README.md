@@ -1,6 +1,6 @@
-![](RackMultipart20210815-4-fwiqk9_html_24eea43f94968d2b.gif) ![](RackMultipart20210815-4-fwiqk9_html_6e892562b49803e3.gif)
+[This repository archieved. For active updates and latest versionsee.](https://github.com/ExtrieveTechnologies/QuickCapture)
 
-![](RackMultipart20210815-4-fwiqk9_html_9c3842334fab774a.png)
+
 
 ## **Android Compression SDK**
 
